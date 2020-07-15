@@ -73,7 +73,7 @@ We order the areas by paper number (see Figure 1).
    Figure 1:The number of different areas of survey papers in the NLP.
  </p>
 
-<img src="https://i.loli.net/2020/07/15/INycvlqoQTER9WU.png" style="zoom:50%" />
+<img src="https://i.loli.net/2020/07/15/INycvlqoQTER9WU.png" style="zoom:50%" width="50%"/>
 
 <p align="center">Figure 2:The number of different areas of survey papers in the Machine Learning.</p>
 
