@@ -69,13 +69,14 @@ We order the areas by paper number (see Figure 1).
 
 <img src="https://i.loli.net/2020/07/15/ItnlZ9BzYjOudEh.png" style="zoom:50%" />
 <div style="text-align:center"> Figure 1:The number of different areas of survey papers in the NLP.</div> 
-<p align="center">
-  Figure 1:The number of different areas of survey papers in the NLP.
-</p>
+ <p align="center">
+   Figure 1:The number of different areas of survey papers in the NLP.
+ </p>
 
 <img src="https://i.loli.net/2020/07/15/INycvlqoQTER9WU.png" style="zoom:50%" />
 
-<center>Figure 2:The number of different areas of survey papers in the Machine Learning.</center>
+<p align="center">Figure 2:The number of different areas of survey papers in the Machine Learning.</p>
+
 
 Also, we plot paper number as a function of publication year (see Figures 2).
 
